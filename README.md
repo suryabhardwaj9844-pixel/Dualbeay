@@ -1,2 +1,2 @@
-# Dualbeay
+# Dualbeat
 Android Bluetooth audio routing prototype
